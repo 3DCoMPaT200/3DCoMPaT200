@@ -1,0 +1,2 @@
+#!/bin/bash
+CUDA_VISIBLE_DEVICES=0,1,2,3 python -m torch.distributed.launch --nproc_per_node=4 main.py --model ULIP_PointBERT --npoints 8192 --lr 3e-3 --output-dir ./outputs/image_pointbert_50kpt_3 --pretrain_dataset_name compat_3
