@@ -55,7 +55,9 @@ booktitle={The Thirty-eight Conference on Neural Information Processing Systems 
 year={2024},
 url={https://openreview.net/forum?id=L4yLhMjCOR}
 }
+```
 
+```bibtex
 @article{slim2023_3dcompatplus,
     title={3DCoMPaT++: An improved Large-scale 3D Vision Dataset
     for Compositional Recognition},
