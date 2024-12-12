@@ -47,8 +47,7 @@ We extend our sincere gratitude to the [KAUST HPC Team](www.hpc.kaust.edu.sa) fo
 If you use our dataset, please cite the three following references:
 
 ```bibtex
-@inproceedings{
-ahmed2024dcompat,
+@inproceedings{ahmed2024dcompat,
 title={3{DC}o{MP}aT200: Language Grounded Large-Scale 3D Vision Dataset for Compositional Recognition},
 author={Mahmoud Ahmed and Xiang Li and Arpit Prajapati and Mohamed Elhoseiny},
 booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
