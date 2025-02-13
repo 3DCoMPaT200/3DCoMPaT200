@@ -1,0 +1,4 @@
+NAME: ShapeNet
+DATA_PATH: /ibex/project/c2106/Mahmoud/datasets/3D/shapenet-55
+PC_PATH: /ibex/project/c2106/Mahmoud/datasets/3D/shapenet-55/shapenet_pc
+IMAGE_PATH: /ibex/project/c2106/Mahmoud/datasets/3D/shapenet-55/only_rgb_depth_images

@@ -1,0 +1,4 @@
+NAME: Objaverse
+DATA_PATH: /ibex/project/c2106/Mahmoud/datasets/3D/ULIP-Objaverse_triplets
+PC_PATH: /ibex/project/c2106/Xiang/Cap3D/Cap3D_pcs_pt/
+IMAGE_PATH: /ibex/project/c2106/Mahmoud/datasets/3D/ULIP-Objaverse_triplets/render_images_split_100

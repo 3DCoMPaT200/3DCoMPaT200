@@ -1,0 +1,4 @@
+NAME: ModelNet
+DATA_PATH: /ibex/project/c2106/Mahmoud/datasets/3D/modelnet40_normal_resampled
+NUM_CATEGORY: 40
+USE_NORMALS: FALSE

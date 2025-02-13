@@ -1,0 +1,8 @@
+NAME: CompatDataset
+NUM_COMPS: 3
+PARTS_PATH: "data/parts_fine.json"
+MATS_PATH: "data/materials.json"
+CLASSES_PATH: "data/classes.json"
+CAP_PATH: "data/valid_captions_1p.json"
+NUM_CATEGORY: 40
+USE_NORMALS: FALSE

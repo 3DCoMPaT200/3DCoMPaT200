@@ -1,0 +1,50 @@
+{
+    "shapenet": {
+        "config": "./data/ShapeNet-55.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "train"
+    },
+    "modelnet40": {
+        "config": "./data/ModelNet40.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "test"
+    },
+    "objaverse": {
+        "config": "./data/Objaverse.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "train"
+    },
+    "compat": {
+        "config": "./data/compat.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "train"
+    },
+    "compat_3": {
+        "config": "./data/compat_3.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "train"
+    },
+    "compat_5": {
+        "config": "./data/compat_5.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "train"
+    },
+    "compat_8": {
+        "config": "./data/compat_8.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "train"
+    },
+    "compat_val": {
+        "config": "./data/compat_val.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "test"
+    }
+}
